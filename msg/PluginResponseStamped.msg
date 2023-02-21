@@ -14,5 +14,5 @@
 #    Composiv.ai, Eteration A.S. - initial API and implementation
 #
 #
-Header  header
+std_msgs/Header  header
 PluginResponse response

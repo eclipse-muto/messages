@@ -16,6 +16,6 @@
 #
 # Muto Plugin Service call response
 
-uint32 resultCode # 0 is successful, others are error codes
-string errorMessage # an error message
-string errorDescription #  an error description
+uint32 result_code # 0 is successful, others are error codes
+string error_message # an error message
+string error_description #  an error description

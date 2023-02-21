@@ -16,5 +16,5 @@
 #
 #  Timestamped Muto Actions (Stack Management)
 
-Header  header
+std_msgs/Header  header
 MutoAction action
