@@ -1,0 +1,4 @@
+string reply_to
+string ditto_originator
+bool response_required
+string content_type

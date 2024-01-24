@@ -65,6 +65,7 @@ rosidl_generate_interfaces(muto_msgs
  "msg/PluginResponse.msg"
  "msg/StackManifest.msg"
  "msg/Thing.msg"
+ "msg/ThingHeaders.msg"
  "srv/CommandPlugin.srv"
  "srv/ComposePlugin.srv"
  "srv/CoreTwin.srv"

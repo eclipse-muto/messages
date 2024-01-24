@@ -1,5 +1,5 @@
 string topic
-string headers
+ThingHeaders headers
 string path
 string value
 string channel
